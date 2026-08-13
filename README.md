@@ -2,7 +2,7 @@
 
 **Manufacturing & Industrialization Engineer** · NPI · OEM/ODM · Structural Engineering · Tooling · Manufacturing Automation · AI Engineering Automation
 
-[**View / Download Engineering Portfolio (PDF)**](Du_Tuan_An_Engineering_Evidence_Portfolio.pdf)
+[**View / Download Engineering Portfolio (PDF)**](https://raw.githubusercontent.com/dutuanan96/engineering-portfolio/main/Du_Tuan_An_Engineering_Evidence_Portfolio.pdf)
 
 > *Selected and sanitized engineering evidence. Proprietary and commercially sensitive information has been omitted or redacted.*
 
