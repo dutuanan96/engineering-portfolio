@@ -10,11 +10,11 @@ Structural Engineering · Manufacturing · Digital Engineering
 
 ### English
 
-[**VIEW ENGINEERING PORTFOLIO — ENGLISH**](Du_Tuan_An_Engineering_Portfolio_EN.pdf)
+[**VIEW ENGINEERING PORTFOLIO — ENGLISH**](https://dutuanan96.github.io/engineering-portfolio/files/Du_Tuan_An_Engineering_Portfolio_EN.pdf)
 
 ### 中文
 
-[**查看工程作品集 — 中文**](Du_Tuan_An_Engineering_Portfolio_ZH.pdf)
+[**查看工程作品集 — 中文**](https://dutuanan96.github.io/engineering-portfolio/files/Du_Tuan_An_Engineering_Portfolio_ZH.pdf)
 
 ---
 
@@ -22,12 +22,12 @@ Structural Engineering · Manufacturing · Digital Engineering
 
 ### English
 
-[**VIEW CV — ENGLISH**](Du_Tuan_An_CV_Manufacturing_Industrialization_EN.pdf)  
+[**VIEW CV — ENGLISH**](https://dutuanan96.github.io/engineering-portfolio/files/Du_Tuan_An_CV_Manufacturing_Industrialization_EN.pdf)  
 **Manufacturing & Industrialization Engineer**
 
 ### 中文
 
-[**查看中文简历**](Du_Tuan_An_CV_Manufacturing_Industrialization_ZH.pdf)  
+[**查看中文简历**](https://dutuanan96.github.io/engineering-portfolio/files/Du_Tuan_An_CV_Manufacturing_Industrialization_ZH.pdf)  
 **Manufacturing & Industrialization Engineer**
 
 ---
@@ -70,4 +70,4 @@ Structural Engineering · Manufacturing · Digital Engineering
 
 ---
 
-[Engineering Portfolio](https://github.com/dutuanan96/engineering-portfolio) · [LinkedIn](https://www.linkedin.com/in/an-du-010b83420/) · [GitHub](https://github.com/dutuanan96)
+[Engineering Portfolio](https://dutuanan96.github.io/engineering-portfolio/) · [LinkedIn](https://www.linkedin.com/in/an-du-010b83420/) · [GitHub](https://github.com/dutuanan96)
